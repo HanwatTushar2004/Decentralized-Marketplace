@@ -19,3 +19,5 @@ To build a trustless, transparent, and censorship-resistant marketplace on the E
 - Introduce user ratings and reviews for sellers and buyers.  
 - Add escrow functionality to hold funds until buyer confirms receipt.  
 - Create a front-end UI for seamless interaction with the smart contract.
+  ![image](https://github.com/user-attachments/assets/6c13221c-f556-475c-bb9f-fec5af6e78b9)
+
